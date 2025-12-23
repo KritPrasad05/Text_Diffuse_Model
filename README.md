@@ -1,1 +1,1 @@
-# Text_Diffuse_Model
+# Text_Diffusion_Model
