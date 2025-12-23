@@ -1,2 +1,6 @@
-# TEXT_Diffusion_Model
-
+# Text_Diffusion_Model
+Team Members : 
+DRISHTI AGARWALLA
+ADRIJ BHADRA
+KRIT PRASAD
+KARTHIKEY PANICKER
